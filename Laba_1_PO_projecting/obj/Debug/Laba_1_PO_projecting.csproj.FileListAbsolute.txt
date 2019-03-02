@@ -1,0 +1,6 @@
+c:\users\hp\documents\visual studio 2015\Projects\Laba_1_PO_projecting\Laba_1_PO_projecting\bin\Debug\Laba_1_PO_projecting.exe.config
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Laba_1_PO_projecting\Laba_1_PO_projecting\bin\Debug\Laba_1_PO_projecting.exe
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Laba_1_PO_projecting\Laba_1_PO_projecting\bin\Debug\Laba_1_PO_projecting.pdb
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Laba_1_PO_projecting\Laba_1_PO_projecting\obj\Debug\Laba_1_PO_projecting.csprojResolveAssemblyReference.cache
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Laba_1_PO_projecting\Laba_1_PO_projecting\obj\Debug\Laba_1_PO_projecting.exe
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Laba_1_PO_projecting\Laba_1_PO_projecting\obj\Debug\Laba_1_PO_projecting.pdb
